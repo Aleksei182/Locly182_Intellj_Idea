@@ -8,6 +8,7 @@ public class Test {
         System.out.println("So, just do it!!!");
         System.out.println("Third commit");
         System.out.println("fifth commit");
+        System.out.println("else commit");
 
         for (int i = 0; i < 10; i++) {
             System.out.print(i + " ");

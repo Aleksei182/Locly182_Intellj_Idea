@@ -6,7 +6,6 @@ public class Test {
         System.out.println("I can do this!!!");
         System.out.println("I will do this!!!");
         System.out.println("So, just do it!!!");
-        System.out.println("Third commit");
         System.out.println("fifth commit");
         System.out.println("else commit");
 

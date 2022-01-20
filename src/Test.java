@@ -9,6 +9,7 @@ public class Test {
         System.out.println("fifth commit");
         System.out.println("else commit");
         System.out.println("Hello Alex");
+        System.out.println("Hello EPAM");
 
         for (int i = 0; i < 10; i++) {
             System.out.print(i + " ");
